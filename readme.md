@@ -18,3 +18,13 @@ def saludo(nombre):
 nombre = "Mundo"
 print(saludo(nombre))
 ```
+# pasos a seguir
+## Paso 1. 
+```
+git clone https://github.com/jaimezambranachacon/pruebita.git
+```
+## Paso 2. 
+```
+git pull origin master
+```
+
